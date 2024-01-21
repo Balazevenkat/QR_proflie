@@ -35,5 +35,9 @@ Steps:
 2. Run `node index.js`.
 3. Type or paste the link that appears when scanning is done.
 
+<div align="center">
+  <img src="./qr_img.png" width=50%/>
+</div>
+
 --- 
 <h3 align="center"><b>Developed with :heart: by Balazevenkat</b></h1>
