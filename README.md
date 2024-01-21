@@ -1,4 +1,4 @@
-#QR generator
+# QR generator
 
  ![Made-With-NodeJS](https://img.shields.io/badge/Made_with-NodeJS-informational?style=for-the-badge&logo=javascript) 
 ---
